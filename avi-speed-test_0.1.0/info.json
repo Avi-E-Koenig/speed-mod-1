@@ -1,0 +1,8 @@
+{
+  "name": "avi-speed-test",
+  "version": "0.1.0",
+  "title": "Avi Speed Test",
+  "author": "Avi",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"]
+}
